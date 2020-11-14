@@ -8,4 +8,5 @@
 - 📫 How to reach me: shannon.quinn91@gmail.com // portfolio link
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I LOVE watching HGTV!
+
 Check out my professional portfolio (updated 11-13-2020) https://shannonquinn91.github.io/Professional-Portfolio/

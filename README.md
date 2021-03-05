@@ -9,4 +9,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I LOVE watching HGTV!
 
-Check out my professional portfolio (updated 1-29-2021) https://shannonquinn91.github.io/Professional-Portfolio/
+Check out my professional portfolio (updated 3-5-2021) https://shannonquinn91.github.io/react-portfolio/

@@ -2,7 +2,7 @@
 
 ## I'm Shannon
 
-- 🔭 I’m currently working on a certificate in full-stack web development from the University of New Hampshire.
+- 🔭 Recently acquired a certificate in full-stack web development from the University of New Hampshire.
 - 🌱 I’m currently learning everything there is to know about web development!
 - 🤔 I’m looking for help with how to be a professional in this field.
 - 📫 How to reach me: shannon.quinn91@gmail.com
